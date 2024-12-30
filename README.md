@@ -3,7 +3,8 @@ Music is Life. As university years comes to an end, I and my partners have decid
 during our senior design semester. Thus, AI-Music was launched. 
 
 The project was developed by a team of nine members. Please see below.
-An artificial intelligence driven music player has won the first place in senior desgin competition
+
+This artificial intelligence driven music player has won the FIRST PLACE in senior desgin competition
 for the team. 
 
 Contributors (original, UNLV):
